@@ -6,3 +6,4 @@ def hello
 end
 
 hello()
+# n 添加注释
