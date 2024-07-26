@@ -2,7 +2,7 @@
 
 # 添加注释
 def hello
-  puts 'hello world'
+  puts 'hello yes'
 end
 
 hello()
