@@ -3,7 +3,7 @@
 # 添加注释
 def hello
   # puts 'hello main'
-  puts 'hello is main my self'
+  puts 'hello main test'
 end
 
 hello()
