@@ -1,0 +1,3 @@
+[submodule "my-test"]
+	path = my-test
+	url = https://gitee.com/hzb879/my-test
